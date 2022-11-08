@@ -1,0 +1,14 @@
+NO  ./textures/eaglg.xpm
+WE ./textures/mossy.xpm
+SO ./textures/greystone.xpm
+EA ./textures/wood.xpm
+F 101 , 52 ,       01   
+C 0,128,255
+
+
+111111111111111
+100000010000001
+100000000000001
+100000000000001
+1000000W0000001
+111111111111111
